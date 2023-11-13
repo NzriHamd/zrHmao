@@ -4,6 +4,7 @@
 
 # Shared objects (inc. Windows DLLs)
 *.dll
+*.dlls
 .llop
 *.so
 *.so.*
