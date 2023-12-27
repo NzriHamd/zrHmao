@@ -19,6 +19,8 @@ root.render(myelement);
 
 const myele3ment = (
   <table>
+     <tr>
+  </tr>
     <tr>
       <th>Name</th>
     </tr>
