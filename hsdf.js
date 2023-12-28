@@ -12,7 +12,22 @@ const myelement = (
   </table>
 );
 
-const container = document.getElementById('root');
+const container = document.getElementById('ew');
+const myele3ment = (
+  <table>
+     <tr>
+  </tr>
+    <tr>
+      <th>Name</th>
+    </tr>
+    <tr>
+      <td>John</td>
+    </tr>
+    <tr>
+      <td>Elsa</td>
+    </tr>
+  </table>
+);
 const root = ReactDOM.createRoot(container);
 root.render(myelement);
 
