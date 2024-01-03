@@ -41,7 +41,7 @@ const myele3ment = (
      <tr>
   </tr>
     <tr>
-      <th>Name</th>
+      <th>Nsame</th>
     </tr>
     <tr>
       <td>John</td>
