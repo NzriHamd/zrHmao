@@ -44,9 +44,6 @@ const myele3ment = (
       <th>Nsame</th>
     </tr>
     <tr>
-      <td>John</td>
-    </tr>
-    <tr>
       <td>Elsa</td>
     </tr>
   </table>
