@@ -2,7 +2,7 @@ const myelement = (
   <table>
     <tr>
       <th>Namerr</th>
-  
+  <br>
     </tr>
   
     <tr>
