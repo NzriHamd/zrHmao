@@ -21,9 +21,6 @@ const myele3ment = (
      <tr>
   </tr>
     <tr>
-      <th>Name</th>
-    </tr>
-    <tr>
       <td>John</td>
     </tr>
     <tr>
