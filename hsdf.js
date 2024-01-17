@@ -9,7 +9,7 @@ const myelement = (
     </tr>
   
     <tr>
-      <td>Elsa</td>
+      <td>Els</td>
     </tr>
   
   </table>
