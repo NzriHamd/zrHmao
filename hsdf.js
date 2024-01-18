@@ -3,9 +3,8 @@ const myelement = (
     <tr>
       <th>Namerr</th>
     </tr>
-  
     <tr>
-      <td>Jon</td>
+      <td>Joeeen</td>
     </tr>
   
     <tr>
