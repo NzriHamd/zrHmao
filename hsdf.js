@@ -27,7 +27,7 @@ const myele3ment = (
     </tr>
   </table>
 );
-const root = ReactDOM.createRoot(continer);
+const root = ReactDOM.createRoot(contier);
 root.render(myelement);
 
 
