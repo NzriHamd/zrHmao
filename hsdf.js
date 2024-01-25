@@ -1,7 +1,7 @@
 const myelement = (
   <table>
     <tr>
-      <th>Naer</th>
+      <th>Naettr</th>
     </tr>
     <tr>
       <td>Joeen</td>
