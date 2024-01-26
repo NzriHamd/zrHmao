@@ -4,7 +4,7 @@ const myelement = (
       <th>Naettr</th>
     </tr>
     <tr>
-      <td>Joeen</td>
+      <td>Joen</td>
     </tr>
   
     <tr>
