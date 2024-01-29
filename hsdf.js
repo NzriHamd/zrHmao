@@ -1,4 +1,4 @@
-const myelement = (
+const melement = (
   <table>
     <tr>
       <th>Naettr</th>
