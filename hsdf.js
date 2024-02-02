@@ -1,7 +1,7 @@
 const melement = (
   <table>
     <tr>
-      <th>Nattr</th>
+      <th>Natr</th>
     </tr>
     <tr>
       <td>Jon</td>
