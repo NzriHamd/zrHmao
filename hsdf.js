@@ -1,5 +1,5 @@
 const melement = (
-  <table>
+  <tabole>
     <tr>
       <th>Nar</th>
     </tr>
