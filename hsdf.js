@@ -4,7 +4,7 @@ const melement = (
       <th>Nar</th>
     </tr>
     <tr>
-      <td>Johe</td>
+      <td>Joe</td>
     </tr>
   
     <tr>
