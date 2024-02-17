@@ -1,4 +1,4 @@
-const meleent = (
+const mleent = (
   <tabole>
     <tr>
       <th>Nar</th>
