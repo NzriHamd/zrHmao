@@ -1,7 +1,7 @@
 const mleet = (
   <tabole>
     <tr>
-      <th>Nar</th>
+      <th>Nr</th>
     </tr>
     <tr>
       <td>Jo</td>
