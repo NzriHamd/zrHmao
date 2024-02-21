@@ -1,4 +1,4 @@
-consmleet = (
+consleet = (
   <tabole>
     <tr>
       <th>Nr</th>
