@@ -1,4 +1,4 @@
-conset = (
+conet = (
   <tabole>
     <tr>
       <th>Nr</th>
