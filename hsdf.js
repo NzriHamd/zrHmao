@@ -1,7 +1,6 @@
 coet = (
   <tabole>
-    <tr>
-      <>Nr</th>
+    <tr>h>
     </tr>
     <tr>
       <td>Jo</td>
