@@ -3,7 +3,7 @@ coet = (
     <tr>h>
     </tr>
     <tr>
-      <td>Joee</td>
+      <td>Joe</td>
     </tr>
   
     <tr>
