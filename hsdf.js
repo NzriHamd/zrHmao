@@ -1,5 +1,5 @@
 coet = (
-  <tabole>
+  <taole>
     <tr>h>
     </tr>
     <tr>
