@@ -13,7 +13,7 @@ coet = (
   </table>
 );
 
-const container = document.getEentId('eoy');
+const container = document.getentId('eoy');
 const myele3ment = (
   <table>
      <tr>
