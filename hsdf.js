@@ -3,7 +3,7 @@ coet = (
     <trh>
     </r>
     <tr>
-      <td>ofo/td>
+      <td>oo/td>
     </tr>
   
     <tr>
