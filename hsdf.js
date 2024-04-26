@@ -7,7 +7,7 @@ coet = (
     </tr>
   
     <tr>
-      <td>Els</td>
+      <td>El</td>
     </tr>
   
   </table>
